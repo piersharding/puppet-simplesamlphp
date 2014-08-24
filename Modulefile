@@ -1,4 +1,4 @@
-name    'puppet-rstudio'
+name    'puppet-simplesamlphp'
 version '0.1.0'
 source 'UNKNOWN'
 author 'puppet'
